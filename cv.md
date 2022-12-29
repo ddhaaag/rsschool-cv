@@ -19,3 +19,14 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - React
 - Git/GitHub
 - Figma, Photoshop
+
+## Code Examples
+
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
