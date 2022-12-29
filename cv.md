@@ -30,3 +30,10 @@ const func = (num) => {
   return num + 1;
 };
 ```
+
+## Experience
+
+## Education
+
+- Belarusian National Technical University
+- Udemy
