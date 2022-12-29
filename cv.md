@@ -37,3 +37,7 @@ const func = (num) => {
 
 - Belarusian National Technical University
 - Udemy
+
+## Languages
+
+- English - B1
